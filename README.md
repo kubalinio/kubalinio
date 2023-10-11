@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Jakub</h1>
-<h3 align="center">A Junior Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <!--
 **kubalinio/kubalinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
