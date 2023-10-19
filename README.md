@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there👋, I'm Jakub</h1>
-<h3 align="center">React Developer</h3>
+<h3 align="center">React Developer | Progressing Fullstack Developer</h3>
 
 - 👯 Member of [MQ Software](https://github.com/emques)
 
