@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm Jakub</h1>
 <h3 align="center">Frontend Developer</h3>
-
+![Jakub GitHub stats](https://github-readme-stats.vercel.app/api?username=kubalinio&show_icons=true&theme=transparent)
 <!--
 **kubalinio/kubalinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
