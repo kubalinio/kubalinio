@@ -4,32 +4,39 @@
 
 - 👯 Member of [MQ Software](https://github.com/emques)
 
-- 🌱 I’m currently progressing in **Node.js & Express**
+- 🌱 I’m currently progressing in **Angular & Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jakub-sapa%C5%82a-833293253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-sapa%C5%82a-833293253/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jakubsapala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-sapa%C5%82a-833293253/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,css,html" />
   </a>
 </p>
 
-- Frameworks & Libraries
+- Frontend Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,redux,nextjs,jest,express" />
+    <img src="https://skillicons.dev/icons?i=angular,reactivex,astro,nextjs,react,tailwind,sass,vitest,jest" />
+  </a>
+</p>
+
+- Backend Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,nodejs,django" />
   </a>
 </p>
 
 - Databases & ORMs 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=graphql,mongodb,planetscale,prisma,postman" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,postman" />
   </a>
 </p>
 
